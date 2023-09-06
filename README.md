@@ -9,14 +9,15 @@ This is the documentation for the Panaderia Bakery House Management System. This
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Code Structure](#code-structure)
-4. [Functions](#functions)
+4. [Login Credentials](#login-credentials)
+5. [Functions](#functions)
    - [Bakery Item Management Functions](#bakery-item-management-functions)
    - [Special Package Management Functions](#special-package-management-functions)
    - [Order and View Functions](#order-and-view-functions)
    - [Utility Functions](#utility-functions)
-5. [Usage](#usage)
-6. [Contributors](#contributors)
-7. [License](#license)
+6. [Usage](#usage)
+7. [Contributors](#contributors)
+8. [License](#license)
 
 ## Introduction
 
@@ -82,6 +83,14 @@ The code is structured into multiple parts for ease of understanding and mainten
    - `countitem2()`: Function to count the number of special packages in the inventory.
 7. Help functions:
    - `Help()`: Function to display a help and usage guide.
+
+## Login Credentials
+### Launch
+- username : `panaderia`
+- password : `1234`
+
+### Admin
+- password : `123456`
 
 ## Functions
 
